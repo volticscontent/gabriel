@@ -1,0 +1,112 @@
+{
+  "pageInfo": {
+    "title": "rendacommotos - Viver de Aluguel de Motos",
+    "description": "",
+    "favicon": "",
+    "ogImage": "https://alugandomotos.com.br/wp-content/uploads/2025/10/Copia-de-10-k-por-mes-com-aluguel-de-motos-600-x-600-px-851-x-500-px-1080-x-500-px-5.png",
+    "colors": {
+      "primary": "",
+      "secondary": ""
+    }
+  },
+  "images": [
+    {
+      "original": "https://alugandomotos.com.br/wp-content/uploads/2025/10/Copia-de-10-k-por-mes-com-aluguel-de-motos-600-x-600-px-851-x-500-px-1080-x-500-px-5-300x139.png",
+      "local": "/assets/image_1.png",
+      "alt": "",
+      "width": 300,
+      "height": 139,
+      "className": "attachment-medium size-medium wp-image-407 lazyloaded"
+    },
+    {
+      "original": "https://alugandomotos.com.br/wp-content/uploads/2025/10/Copia-de-10-k-por-mes-com-aluguel-de-motos-600-x-600-px-851-x-500-px-1080-x-500-px-2-1.png",
+      "local": "/assets/image_2.png",
+      "alt": "Cópia de 10 k por mês com aluguel de motos (600 x 600 px) (851 x 500 px) (1080 x 500 px) (2)",
+      "width": 800,
+      "height": 222,
+      "className": " lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/1f4b0.svg",
+      "local": "/assets/image_3.svg",
+      "alt": "💰",
+      "width": 16,
+      "height": 16,
+      "className": "emoji lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/1f4f1.svg",
+      "local": "/assets/image_4.svg",
+      "alt": "📱",
+      "width": 16,
+      "height": 16,
+      "className": "emoji lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/1f4e6.svg",
+      "local": "/assets/image_5.svg",
+      "alt": "📦",
+      "width": 16,
+      "height": 16,
+      "className": "emoji lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/1f4c8.svg",
+      "local": "/assets/image_6.svg",
+      "alt": "📈",
+      "width": 16,
+      "height": 16,
+      "className": "emoji lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/2705.svg",
+      "local": "/assets/image_7.svg",
+      "alt": "✅",
+      "width": 16,
+      "height": 16,
+      "className": "emoji ls-is-cached lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/2705.svg",
+      "local": "/assets/image_8.svg",
+      "alt": "✅",
+      "width": 16,
+      "height": 16,
+      "className": "emoji lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/2705.svg",
+      "local": "/assets/image_9.svg",
+      "alt": "✅",
+      "width": 16,
+      "height": 16,
+      "className": "emoji lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/1f4a1.svg",
+      "local": "/assets/image_10.svg",
+      "alt": "💡",
+      "width": 16,
+      "height": 16,
+      "className": "emoji lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/1f525.svg",
+      "local": "/assets/image_11.svg",
+      "alt": "🔥",
+      "width": 16,
+      "height": 16,
+      "className": "emoji lazyloaded"
+    },
+    {
+      "original": "https://s.w.org/images/core/emoji/16.0.1/svg/1f449.svg",
+      "local": "/assets/image_12.svg",
+      "alt": "👉",
+      "width": 15,
+      "height": 15,
+      "className": "emoji lazyloaded"
+    }
+  ],
+  "backgroundImages": [],
+  "scrapedAt": "2025-10-29T00:38:54.112Z"
+}

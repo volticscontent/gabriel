@@ -1,0 +1,136 @@
+@import "tailwindcss/preflight";
+@tailwind utilities;
+
+/* Elementor-like styles for original layout */
+.elementor-widget-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.elementor-element {
+  margin-bottom: 20px;
+}
+
+.elementor-element-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.elementor-element-text-editor p {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+.elementor-element-text-editor strong {
+  font-weight: bold;
+}
+
+.elementor-heading-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.elementor-video-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto 20px;
+}
+
+.elementor-video-iframe {
+  width: 100%;
+  height: 360px;
+  border: none;
+}
+
+.elementor-button-wrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.elementor-button {
+  display: inline-block;
+  background: linear-gradient(45deg, #ff6b35, #f7931e);
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}
+
+.elementor-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(255, 107, 53, 0.4);
+}
+
+.e-n-accordion {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.e-n-accordion-item {
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.e-n-accordion-item-title {
+  background: #f8f9fa;
+  padding: 15px 20px;
+  cursor: pointer;
+  font-weight: bold;
+  border: none;
+  width: 100%;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.e-n-accordion-item-title:hover {
+  background: #e9ecef;
+}
+
+.e-n-accordion-item[open] .e-n-accordion-item-title {
+  background: #18D184;
+  color: white;
+}
+
+.e-n-accordion-item .elementor-element {
+  padding: 15px 20px;
+  background: white;
+}
+
+/* Fire icon styling */
+.e-fas-fire {
+  color: #ff6b35;
+  width: 24px;
+  height: 24px;
+  margin-bottom: 20px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .elementor-widget-container {
+    padding: 10px;
+  }
+  
+  .elementor-heading-title {
+    font-size: 1.5rem;
+  }
+  
+  .elementor-video-iframe {
+    height: 250px;
+  }
+  
+  .elementor-button {
+    padding: 12px 25px;
+    font-size: 16px;
+  }
+}
